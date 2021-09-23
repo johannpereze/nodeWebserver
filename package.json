@@ -1,0 +1,27 @@
+{
+  "name": "nodewebserver",
+  "version": "1.0.0",
+  "description": "Webserver on nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannpereze/nodeWebserver.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "webserver"
+  ],
+  "author": "johannpereze",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/johannpereze/nodeWebserver/issues"
+  },
+  "homepage": "https://github.com/johannpereze/nodeWebserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
